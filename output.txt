@@ -1,0 +1,623 @@
+
+Học phần: Nhập môn Công nghệ Thực phẩm
+Được sử dụng tài liệu: X
+	
+Thời gian làm bài: 60 phút
+Mỗi đề gồm 40 câu (trong đó phần A: 8 câu; phần B: 20 câu; phần C: 8 câu và phần D: 4 câu)
+
+A. Nhóm câu hỏi dễ: 25 câu (chiếm 25% trên tổng số câu). Thời gian trả lời:  phút/câu 
+Câu 1: Có rất nhiều thuật ngữ về “Thực phẩm”. Như vậy, khi công tác trong ngành Công nghệ Thực phẩm tại Việt Nam, chúng ta cần tham khảo các thuật ngữ về “Thực phẩm” nào là đúng nhất ?
+Theo Luật An toàn thực phẩm nước CHXHCN Việt Nam.
+Theo Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA).
+Theo Mạng xã hội.
+Theo những “người có ảnh hưởng” (KOL) trên truyền thông.
+Đáp án: A
+Câu 2: Theo Luật An Toàn Thực Phẩm, thuật ngữ “Thực Phẩm” được giải thích là gì ?
+Là sản phẩm mà con người ăn, uống.
+Ở dạng tươi sống hoặc đã qua sơ chế, chế biến, bảo quản.
+Không bao gồm mỹ phẩm, thuốc lá và các chất sử dụng như dược phẩm. 
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 3: Hiện nay, công tác trong ngành Công nghiệp Thực phẩm tại Việt Nam, những nhóm, tổ chức và cá nhân nào ? phải chấp hành đúng theo Luật An Toàn Thực Phẩm.
+Các tổ chức, công ty, đại tổ hợp đa quốc gia trong lĩnh vực công nghiệp thực phẩm và các công ty có liên quan trực tiếp hoặc gián tiếp đến SX TP, đang hoạt động SX tại lãnh thổ VN 
+Các cơ sở sản xuất kinh doanh tiểu thủ công nghiệp và dịch vụ ẩm thực
+Các cá nhân, kinh doanh hàng quán, nhỏ, lẻ liên quan thực phẩm
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 4: Các loại thực “phẩm truyền thống của Việt Nam” là gì ?
+Gạo (tinh bột) là trọng tâm.
+Thịt (đứng đầu là thịt heo, thịt gà, thịt vịt và hải sản).
+Rau xanh, đặc trưng là rau muống và các loại rau, củ quả phổ biến tại địa phương.
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 5: Các giá trị cốt lõi của Thực phẩm là gì ?
+Dinh dưỡng, Cảm quan, Văn hóa
+Dinh dưỡng, Cảm quan, Văn hóa, Vệ sinh, Kinh tế
+Dinh dưỡng, Cảm quan, Kinh tế
+Dinh dưỡng, Cảm quan, Văn hóa, Vệ sinh
+Đáp án: B
+Câu 6: Các tính chất của Thực phẩm là ?
+Tính chất hóa học – sinh học cấu tạo bên trong thực phẩm.
+Tính chất vật lý – cấu trúc bên ngoài tạo nên thực phẩm.  
+Tính chất chất lượng tạo nên giá trị dinh dưỡng và cảm quan tổng thể của thực phẩm.
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 7: Kể tên các loại mô hình tư duy phân tích ?
+Suy diễn
+Suy diễn, Quy nạp
+Suy diễn, Quy nạp, Hồi quy
+Suy diễn, Quy nạp, Hồi quy, Tuyến tính
+Đáp án: B
+Câu 8: Việc tư duy và phân tích luôn bị ảnh hưởng bởi yếu tố nào ?
+Kiến thức
+Thông tin
+Cảm xúc
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 9: Trong nghiên cứu và phát triển sản phẩm thực phẩm, nên sử dụng các mô hình tư duy phân tích nào ?
+Suy diễn
+Suy diễn, Quy nạp
+Suy diễn, Quy nạp, Hồi quy
+Suy diễn, Quy nạp, Hồi quy, Tuyến tính
+Đáp án: B
+Câu 10: Khi “so sánh” các vật mẫu, ví dụ, các hiện tượng, ta cần nhớ “so sánh” mang tính chất gì ? 
+Tính tương đối
+Tính tuyệt đối
+Tính suy diễn
+Tính quy nạp
+Đáp án: A
+Câu 11: Khi “phân loại” các vấn đề, sự kiện, thông tin ta cần dựa vào điều gì ? 
+Bản chất của vấn đề
+Tính chất của vấn đề
+Tiêu chí của vấn đề
+Đặc điểm của vấn đề
+Đáp án: C
+Câu 12: Ngày nay, khi nghiên cứu thực phẩm, chúng ta tư duy và phân tích theo cách gì ?
+Tư duy phân tích theo hệ thống
+Tư duy phân tích theo thực tế.
+Tư duy phân tích theo kinh nghiệm.
+Tư duy phân tích theo các bối cảnh đang nghiên cứu.
+Đáp án: A
+Câu 13: Trong các công ty thực phẩm, quá trình nghiên cứu thực phẩm theo hệ thống, bao gồm những yếu tố gì ?
+Sản phẩm có chất lượng dinh dưỡng và cảm quan.
+Quy trình sản xuất sản phẩm giảm thiểu chất thải và lãng phí nguyên liệu.
+Điều hành sản xuất đảm bảo vệ sinh an toàn thực phẩm.
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 14: Quá trình nghiên cứu khoa học tương đương quá trình gì ?
+Học hỏi kiến thức
+Trau dồi kinh nghiệm
+Thành thạo chuyên môn
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 15: Trong ngành Công Nghệ Thực Phẩm hiện nay, nghiên cứu và phát triển sản phẩm thực phẩm, yếu tố nào là quan trọng nhất ?
+Đổi mới những sản phẩm cũ
+Tiên phong làm ra các sản phẩm chưa có trên thị trường
+Sáng tạo ra các cách thức độc đáo để tạo ra sản phẩm thực phẩm.
+Tiết kiệm chi phí sản xuất tới mức tối đa
+Đáp án: C
+Câu 16: Các giai đoạn của Quy trình sản xuất và chế biến thực phẩm là?
+Sơ chế
+Chế biến
+Hoàn thiện
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 17: Nguyên liệu thực phẩm có tính chất gì ?
+Tự nhiên và nhân tạo
+Hỗn hợp đồng nhất và không đồng nhất
+Hợp chất dạng rắn, dạng nhũ tương và dạng dung dịch
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 18: Nguyên liệu thực phẩm có nguồn gốc thực vật là gì ?
+Cây lương thực
+Cây ăn quả
+Cây họ Đậu
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 19: Nguyên liệu thực phẩm có nguồn gốc động vật là gì ?
+Thịt
+Cá
+Trứng và Sữa
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 20: Nguyên liệu thực phẩm nào là dạng bán thành phẩm, được sử dụng trong giai đoạn sơ chế hoặc trong công đoạn phối trộn của giai đoạn chế biến trong quá trình sản xuất thực phẩm ?
+Gia vị
+Chất bảo quản 
+Chất chống OXH
+Bao bì
+Đáp án: A
+Câu 21: Sản phẩm thực phẩm nào dưới đây trong thành phần nguyên liệu sẽ có thành phần có nguồn gốc thực vật ?
+Bánh mì Việt Nam, bánh bông lan.
+Bánh bao, bánh pía, bánh đậu xanh.
+Bún, miến, phở, mì ăn liền
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 22: Sản phẩm thực phẩm nào dưới đây trong thành phần nguyên liệu sẽ có thành phần có nguồn gốc động vật ?
+Thịt bỏ, thịt heo, thịt gà
+Sữa tươi, sữa bột, sữa chua
+Trứng gà, trứng vịt, trứng cúc, hột vịt lộn
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+
+Câu 23: Nguyên liệu thực phẩm nào là dạng nguyên liệu phụ, được phối trộn trong công đoạn hoàn thiện để kéo dài thời gian sử dụng sản phẩm trong quá trình sản xuất thực phẩm ?
+Gia vị
+Chất bảo quản 
+Chất chống OXH
+Bao bì
+Đáp án: B
+Câu 24: Nguyên liệu thực phẩm nào là dạng nguyên liệu phụ, được sử dụng trong công đoạn đóng gói để thực phẩm không bị hư hại khi vận chuyển trong quá trình sản xuất thực phẩm ?
+Gia vị
+Chất bảo quản 
+Chất chống OXH
+Bao bì
+Đáp án: D
+Câu 25: Nguyên liệu thực phẩm nào là dạng bán thành phẩm, được sử dụng trong công đoạn phối trộn của giai đoạn chế biến. Nhằm hạn chế sự biến tính của sản phẩm thực phẩm, làm giảm giá trị dinh dưỡng, cảm quan thực phẩm trong quá trình sản xuất thực phẩm ?
+Gia vị
+Chất bảo quản 
+Chất chống OXH
+Bao bì
+Đáp án: C
+	
+B. Nhóm câu hỏi trung bình: 40 câu (chiếm 40% trên tổng số câu). Thời gian trả lời: …... phút/câu
+Câu 1: Nguyên liệu thực phẩm có nguồn gốc thực vật sử dụng như thế nào trong quá trình chế biến và sản xuất thực phẩm ?
+Thân
+Củ
+Hạt và rễ
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 2: Nguyên liệu thực phẩm có nguồn gốc động vật sử dụng như thế nào trong quá trình chế biến và sản xuất thực phẩm ?
+Thịt
+Trứng 
+Sữa và toàn bộ động vật nuôi
+Tổng hợp các câu trả lời đều đúng. 
+Đáp án: D
+Câu 3: Thành phần nào của guyên liệu thực phẩm động vật được sử dụng nhiều nhất trong chế biến và sản xuất thực phẩm ?
+Thịt và sản phẩm thịt
+Trứng 
+Sữa
+Cá và hải sản 
+Đáp án: A
+Câu 4: Thành phần hóa học chiếm phần lớn của thực phẩm bao gồm là ?
+Tinh Bột
+Chất Đạm
+Chất Béo	
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 5: Thành phần hóa học chiếm tỷ lệ nhỏ trong thực phẩm bao gồm là ?
+Vitamin
+Khoáng
+Màu và mùi vị	
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 6: Nguyên liệu thực phẩm có nguồn gốc thực vật chủ yếu cấu tạo bởi thành phần hóa học nào?
+Chất đường, bột
+Chất Đạm
+Chất Béo	
+Vitamin và khoáng
+Đáp án: A
+Câu 7: Nguyên liệu thực phẩm có nguồn gốc động vật chủ yếu cấu tạo bởi thành phần hóa học nào?
+Chất đường, bột
+Chất Đạm
+Chất Béo	
+Vitamin và khoáng
+Đáp án: B
+Câu 8: Trong nguyên liệu thực phẩm thành phần hóa học nào đóng vai trò tiền chất tạo ra các hoạt chất sinh học như hóc môn, enzyme, dự trữ năng lượng sinh học ?
+Tinh Bột
+Chất Đạm
+Chất Béo	
+Vitamin và khoáng
+Đáp án: C
+Câu 9: Kể tên các loại quy trình sản xuất thực phẩm ?
+Gián đoạn
+Liên tục
+Hỗn hợp
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 10: Nhà hàng, quán ăn và cơ sở kinh doanh thực phẩm nhỏ lẻ có bếp ăn và phục vụ cơm sáng, cơm trưa và cơm tối. Với các đặc điểm trên thì nên bố trí quy trình sản xuất thực phẩm dạng nào ?
+Liên tục
+Gián đoạn
+Hỗn hợp
+Tổng hợp các câu trả lời đều đúng
+Đáp án: B
+Câu 11: Công ty bánh kẹo Kinh Đô, sản xuất thực phẩm theo sản lượng hàng triệu đơn vị / tháng với đa dạng phong phú các loại mặt hàng bánh, kẹo, kem, snack. Với các đặc điểm trên thì nên bố trí quy trình sản xuất thực phẩm dạng nào ?
+Liên tục
+Gián đoạn
+Hỗn hợp
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 12: Cá nhân tốt nghiệp Đại học ngành công nghiệp thực phẩm, đủ chuyên môn, công tác trong các công ty, tổ chức nào ? 
+Các tổ chức, công ty, đại tổ hợp đa quốc gia trong lĩnh vực công nghiệp thực phẩm
+Các cơ sở sản xuất kinh doanh tiểu thủ công nghiệp và dịch vụ ẩm thực
+Các cá nhân, kinh doanh hàng quán, nhỏ, lẻ liên quan thực phẩm
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 13: Cá nhân tốt nghiệp Đại học ngành công nghiệp thực phẩm, đủ chuyên môn, thực hiện các công việc nào trong ngành thực phẩm ?
+Nhân viên sản xuất, phát triển sản phẩm
+Nhân viên đảm bảo chất lượng QC – QA, kiểm nghiệm phân tích
+Nhân viên kinh doanh, marketing thực phẩm 
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 14: Một sản phẩm thực phẩm hiện nay, phải cạnh tranh bao nhiêu dạng sản phẩm thực phẩm trên thị trường ?
+Sản phẩm thực phẩm cùng loại, đang đứng đầu thị trường.
+Sản phẩm thực phẩm khác loại, nhưng chức năng gần tương tự.
+Sản phẩm thực phẩm mới chưa xuất hiện trên thị trường.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D 
+Câu 15: Cách thức hiệu quả nhất để phát triển sản phẩm thực phẩm là ?
+Sản phẩm thực phẩm cùng loại, đang đứng đầu thị trường.
+Sản phẩm thực phẩm khác loại, nhưng chắc năng gần tương tự.
+Sản phẩm thực phẩm mới chưa xuất hiện trên thị trường.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: C
+Câu 16: Theo báo cáo của Việt Nam Report 2020, các xu hướng phát triển của ngành thực phẩm trong tương lai là?
+Thực phẩm biến đổi gien
+Thực phẩm chức năng
+Thực phẩm có lợi sức khỏe
+Thực phẩm truyền thống
+Đáp án: C
+Câu 17: Quá trình tư duy phân tích gồm các giai đoạn nào ?
+Quan sát → Vấn đề → Tư Duy → Phân Tích → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Chứng minh → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Mô hình → Kết Luận → Kiến thức mới 
+Quan sát → Vấn đề → Giả thuyết → Kiểm tra → Kết Luận → Kiến thức mới
+Đáp án: A
+Câu 18: Quá trình Nghiên cứu khoa học gồm các giai đoạn nào ?
+Quan sát → Vấn đề → Tư Duy → Phân Tích → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Chứng minh → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Mô hình → Kết Luận → Kiến thức mới 
+Quan sát → Vấn đề → Giả thuyết → Kiểm tra → Kết Luận → Kiến thức mới
+Đáp án: B
+Câu 19: Quá trình Phát triển sản phẩm gồm các các giai đoạn nào ?
+Quan sát → Vấn đề → Tư Duy → Phân Tích → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Chứng minh → Kết Luận → Kiến thức mới
+Quan sát → Vấn đề → Giả thuyết → Mô hình → Kết Luận → Kiến thức mới 
+Quan sát → Vấn đề → Giả thuyết → Kiểm tra → Kết Luận → Kiến thức mới
+Đáp án: C
+Câu 20: Qua các vùng địa lý khác nhau, các sản phẩm thực phẩm sẽ thay đổi theo yếu tố nào?
+Dinh dưỡng
+Cảm quan
+Văn hóa
+Kinh tế - giá thành
+Đáp án: C
+Câu 21: Đâu là tính chất thực phẩm, ngầm hiểu, có “tính tương đối” nhưng tạo giá trị thặng dư cao cho sản phẩm thực phẩm?
+Chất lượng
+Vật lý – kết cấu
+Cảm quan
+Vệ sinh
+Đáp án: A
+Câu 22: Nhà hàng, quán ăn và cơ sở kinh doanh thực phẩm nhỏ lẻ có bếp ăn và phục vụ cơm sáng, cơm trưa và cơm tối. Với các đặc điểm trên thì nên bố trí quy trình sản xuất thực phẩm dạng nào ?
+Liên tục
+Gián đoạn
+Hỗn hợp
+Tổng hợp các câu trả lời đều đúng
+Đáp án: B
+Câu 23: Các tính chất của quy trình sản xuất thưc phẩm là gì ?
+Đại diện dưới dạng sơ đồ khối.
+Biểu thị nguyên liệu, sản phẩm và sản phẩm phụ.
+Biểu thị các kỹ thuật chế biến cụ thể theo từng công đoạn.
+Tổng hợp các câu trả lời đều đúng 
+Đáp án: D
+Câu 24: Nguyên liệu đầu vào được biểu diễn ở đâu trong sơ đồ khối quy trình sản xuất thực phẩm?
+Bên trên, ô đầu tiên của sơ đồ khối có hình tròn
+Bên dưới, ô cuối cùng sơ đồ khối, thường có hình thoi
+Bên trái sơ đồ khối có hình tròn
+Bên phải sơ đồ khối 
+Đáp án: A
+Câu 25: Sản phẩm đầu ra được biểu diễn ở đâu trong sơ đồ khối quy trình sản xuất thực phẩm?
+Bên trên, ô đầu tiên của sơ đồ khối có hình tròn
+Bên dưới, ô cuối cùng sơ đồ khối, thường có hình thoi
+Bên trái sơ đồ khối có hình tròn
+Bên phải sơ đồ khối 
+Đáp án: B
+Câu 26: Nguyên liệu phụ được biểu diễn ở đâu trong sơ đồ khối quy trình sản xuất thực phẩm?
+Bên trên, ô đầu tiên của sơ đồ khối có hình tròn
+Bên dưới, ô cuối cùng sơ đồ khối, thường có hình thoi
+Bên trái sơ đồ khối có hình tròn
+Bên phải sơ đồ khối
+Đáp án: C
+Câu 27: Chất thải được biểu diễn ở đâu trong sơ đồ quy trình sản xuất thực phẩm?
+Bên trên, ô đầu tiên của sơ đồ khối có hình tròn
+Bên dưới, ô cuối cùng sơ đồ khối, thường có hình thoi
+Bên trái sơ đồ khối có hình tròn
+Bên phải sơ đồ khối 
+Đáp án: D
+Câu 28: Các công đoạn trong sơ đồ khối quy trình sản xuất thực phẩm dùng loại từ gì ?
+Động từ
+Tính từ
+Trạng từ
+Danh từ
+Đáp án: A
+Câu 29: Quy trình chế biến thực phẩm, thể hiện điều gì ?
+Biểu hiện các tính chất của nguyên liệu thành sản phẩm
+Biểu hiện sự thay đổi của nguyên liệu thành sản phẩm
+Biểu hiện sự tổng hợp của nguyên liệu thành sản phẩm
+Biểu hiện sự tham gia nhiều phần nguyên liệu thành sản phẩm
+Đáp án: B
+Câu 30: Quy trình sản xuất thực phẩm hiện nay, tập trung tính chất gì?
+Lợi ích sức khỏe
+Chế biến tối thiểu
+Sản xuất tinh gọn
+An toàn vệ sinh thực phẩm
+Đáp án: B
+Câu 31: Tính chất mô hình tư duy phân tích Suy Diễn là gì?
+Chi phí cao
+Tạo điều kiện cho cái mới xuất hiện
+Tạo nền tảng của sự kế thừa
+Tạo ra sự đổi mới
+Đáp án: C
+Câu 32: Tính chất mô hình tư duy phân tích Quy Nạp là gì?
+Tiết kiệm chi phí
+Ngăn ngừa chi phí ẩn trong dài hạn
+Tạo sự tích lũy theo thời gian
+Loại bỏ các vấn đề sai từ đầu.
+Đáp án: B
+Câu 33: Nếu hiện tượng, sự kiện, vấn đề hay giả thuyết tư duy phân tích Quy nạp là đúng. Số lượng hiện tượng, sự kiện, vấn đề hay giả thuyết đó xảy ra đủ nhiều thì bản chất của Quy Nạp các hiện tượng, sự kiện hay giả thuyết dó, là gì?
+Suy diễn
+Hồi quy
+Quy nạp
+Chân lý
+Đáp án: A
+Câu 34: Nếu hiện tượng, sự kiện, vấn đề hay giả thuyết tư duy phân tích Suy diễn là đúng. Số lượng hiện tượng, sự kiện, vấn đề hay giả thuyết đó xảy ra đủ nhiều thì bản chất của Suy diễn các hiện tượng, sự kiện hay giả thuyết dó, là gì?
+Suy diễn
+Hồi quy
+Quy nạp
+Chân lý
+Đáp án: D
+Câu 35: Học đại học Công Nghệ Thực Phẩm trang bị cho các bạn điều gì ?
+Tư duy
+Kiến Thức 
+Chuyên môn
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 36: Để thành công trong việc học Đại Học Công Nghệ Thực Phẩm, các bạn cần hướng tới giá trị cốt lõi nào cáo nhất sau đây ?
+Tư duy
+Kiến Thức 
+Chuyên môn
+Tổng hợp các câu trả lời đều đúng
+Đáp án: A
+Câu 37: Bản chất của việc Sáng tạo trong Công Nghiệp Thực Phẩm là gì ?
+Là sự kế thừa cái cũ 
+Là sự phát triển cái mới
+Những yếu tố không phù hợp
+Tổng hợp các câu trả lời đều đúng
+Đáp án: C
+Câu 38: Đóng góp GDP ngành thực phẩm trong tổng GDP Việt Nam là bao nhiêu khi ước tính giá trị USD, theo VN Report 2019 ?
+100 tỷ USD
+120 tỷ USD
+130 tỷ USD
+140 tỷ USD
+Đáp án: B
+Câu 39: Kể tên các yếu tố mô hình “Sáng tạo của một cá nhân” trong các công ty thực phẩm?
+Kiến thức cá nhân
+Sự tinh thông công việc
+Kỹ năng cá nhân
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 40: Sự “Sáng tạo” trong các công ty thực phẩm cần các điều kiện gì ?
+Thời gian
+Thực nghiệm 
+Chi phí phát triển
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+	
+C. Nhóm câu hỏi khó: 25 câu (chiếm 25% trên tổng số câu). Thời gian trả lời: … phút/câu
+Câu 1: Sự “Sáng tạo cá nhân” đóng vai trò như thế nào với sự “Sáng tạo” trong các công ty thực phẩm ?
+Thời gian
+Thực nghiệm 
+Chi phí phát triển
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 2: Tổ chức, công ty sản xuất thực phẩm có các đặc điểm gì ?
+Tập hợp các con người có chuyên môn về thực phẩm, VSATTP.
+Cùng làm việc với nhau theo các hình thức có thỏa thuận
+Đạt mục tiêu chung có giá trị
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 3: Các tổ chức, công ty hoạt động trong ngành công nghiệp thực phẩm dưới hình thức nào sau đây?
+Nhà máy, công ty, cơ sở sản xuất thực phẩm, 
+Các đội nhóm chế biến thực phẩm tại nhà, 
+Các cửa hàng kinh doanh dịch vụ thực phẩm
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 4: Các tổ chức sản xuất và chế biến thực phẩm có tiềm ẩn nguy cơ gì ?
+Sự sai lệch trong hành động từng cá nhân
+Sự khác biệt trong cảm xúc từng cá nhân
+Sự mâu thuẫn trong quan điểm từng có nhân
+Tổng hợp các câu trả lời đều đúng
+Đáp án: A
+Câu 5: Các nguy cơ tiềm ẩn trong các tổ chức sản xuất và chế biến thực phẩm gây ra các hậu quả gì?
+Không đảm bảo chất lượng sản phẩm thực phẩm
+Vi phạm các nguyên tắc ATVSTP
+Ảnh hưởng tới sự hoạt động của chính tổ chức.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 6: Mô hình hoạt động của một tổ chức sản xuất thực phẩm ngày nay là gì ?
+Tập hợp các con người chế biến các nguyên liệu thực phẩm đầu vào tạo các sản phẩm thực phẩm đầu ra theo các tiêu chuẩn VSATTP .
+Sản phẩm thực phẩm tham gia vận chuyển, phân phối trong thị trường, đáp ứng yêu cầu khách hàng.
+Khách hàng càng có yêu cầu cao hơn thúc đẩy tổ chức đó nghiên cứu phát triển các sản phẩm mới càng thõa mãn nhu cầu người tiêu dùng cao hơn.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 7: Mô tả các dạng cấu trúc 1 tổ chức sản xuất thực phẩm ?
+Cấu trúc trực tiếp trong các cơ sở sản xuất quy mô nhỏ, ví như quán ăn ẩm thực
+Cấu trúc trực tiếp – chức năng trong các công ty, doanh nghiệp nhà máy sản xuất thực phẩm, ví dụ các cơ sở sản xuất chế biến thực phẩm
+Cấu trúc ma trận trong các công ty hoạt động nhiều khu vực địa lý hoặc công ty đa quốc gia, ví dụ công ty Vinamilk, công ty Vissan.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 8: Cấu trúc trực tiếp trong các cơ sở sản xuất thực phẩm là ?
+Nhà máy, công ty, cơ sở sản xuất thực phẩm
+Nhà hàng, quán ăn, các đội nhóm chế biến thực phẩm tại nhà
+Cửa hàng tiện lợi, siêu thị
+Tổng hợp các câu trả lời đều đúng
+Đáp án: B
+Câu 9: Cấu trúc trực tiếp – chức năng trong các cơ sở sản xuất thực phẩm là ?
+Nhà máy, công ty, cơ sở sản xuất thực phẩm
+Nhà hàng, quán ăn, các đội nhóm chế biến thực phẩm tại nhà,
+Cửa hàng tiện lợi, siêu thị
+Tổng hợp các câu trả lời đều đúng
+Đáp án: A
+Câu 10: Cấu trúc ma trận trong các cơ sở sản xuất thực phẩm là ?
+Nhà máy, công ty, cơ sở sản xuất thực phẩm, 
+Nhà hàng, quán ăn, các đội nhóm chế biến thực phẩm tại nhà,
+Cửa hàng tiện lợi, siêu thị
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 11: Ngày nay, đơn vị “phát triển sản phẩm” trong tổ chức sản xuất thực phẩm dạng “tích hợp” là gì ?
+Phòng phát triển sản phẩm trong nhà máy
+Trung tâm nghiên cứu phát triển sản phẩm
+Nhà thầu phụ nghiên cứu phát triển sản phẩm
+Liên doanh cùng nghiên cứu phát triển sản phẩm
+Đáp án: A
+Câu 12: Ngày nay, đơn vị “phát triển sản phẩm” trong tổ chức sản xuất thực phẩm dạng “chuyên biệt” là gì ?
+Phòng phát triển sản phẩm trong nhà máy
+Trung tâm nghiên cứu phát triển sản phẩm
+Nhà thầu phụ nghiên cứu phát triển sản phẩm
+Liên doanh cùng nghiên cứu phát triển sản phẩm
+Đáp án: B
+Câu 13: Ngày nay, việc “hợp tác phát triển sản phẩm” trong nhiều tổ chức sản xuất thực phẩm là gì ?
+Phòng phát triển sản phẩm trong nhà máy
+Trung tâm nghiên cứu phát triển sản phẩm
+Nhà thầu phụ nghiên cứu phát triển sản phẩm
+Liên doanh cùng nghiên cứu phát triển sản phẩm
+Đáp án: D
+Câu 14: Ngày nay, việc “gia công thuê ngoài phát triển sản phẩm” trong tổ chức sản xuất thực phẩm là gì ?
+Phòng phát triển sản phẩm trong nhà máy
+Trung tâm nghiên cứu phát triển sản phẩm
+Nhà thầu phụ nghiên cứu phát triển sản phẩm
+Liên doanh cùng nghiên cứu phát triển sản phẩm
+Đáp án: C
+Câu 15: Các sản phẩm thực phẩm thuộc dạng chiến lược sản xuất “Giá thành sản phẩm rẻ và số lượng lớn” ?
+Mì ăn liền, nước giải khát
+Sản phẩm hữu cơ, có lợi sức khỏe
+Sẩn phẩm Bia, rượu, cà phê
+Sản phẩm dinh dưỡng theo hướng đối tượng
+Đáp án: A
+Câu 16: Các sản phẩm thực phẩm thuộc dạng chiến lược sản xuất “Chất lượng sản phẩm cao” ?
+Mì ăn liền, nước giải khát
+Sản phẩm hữu cơ, có lợi sức khỏe
+Sẩn phẩm Bia, rượu, cà phê
+Sản phẩm dinh dưỡng theo hướng đối tượng
+Đáp án: B
+Câu 17: Các sản phẩm thực phẩm thuộc dạng chiến lược sản xuất “Hệ thống phân phối sản phẩm rộng khắp” ?
+Mì ăn liền, nước giải khát
+Sản phẩm hữu cơ, có lợi sức khỏe
+Sẩn phẩm Bia, rượu, cà phê
+Sản phẩm dinh dưỡng theo hướng đối tượng
+Đáp án: C
+Câu 18: Các sản phẩm thực phẩm thuộc dạng chiến lược sản xuất “Theo thị hiếu khách hàng đặc biệt” ?
+Mì ăn liền, nước giải khát
+Sản phẩm hữu cơ, có lợi sức khỏe
+Sẩn phẩm Bia, rượu, cà phê
+Sản phẩm dinh dưỡng theo hướng đối tượng
+Đáp án: D
+Câu 19: Các tổ chức sản xuất thực phẩm tại Việt Nam hiện nay đang áp dụng các loại mô hình hoạt động nào ?
+Theo quy mô
+Theo sản phẩm
+Theo thị hiếu nhóm đối tượng
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 20: Ngày nay, xu hướng “dẫn đầu và ưu tiên phát triển” trong chế biến sản xuất thực phẩm, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm hữu cơ
+Thực phẩm chức năng 
+Đáp án: C
+Câu 21: Ngày nay, xu hướng “có nhiều ý kiến trái ngược nhau, có ý kiến đồng tình ủng hộ nhưng cũng có quan điểm lo ngại các biến đổi, không phù hợp” trong chế biến sản xuất thực phẩm, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm chức năng
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 22: Ngày nay, xu hướng “không có dấu hiệu mất an toàn cho sức khỏe nhưng lại ít được người tiêu dùng ủng hộ” trong chế biến sản xuất thực phẩm, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm hữu cơ
+Thực phẩm chức năng 
+Đáp án: A
+Câu 23: Ngày nay, thực phẩm nào có nhiều “thành phần dược chất” trong chế biến sản xuất thực phẩm, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm hữu cơ
+Thực phẩm chức năng 
+Đáp án: D
+Câu 24: Ngày nay, trong thực tế chế biến sản xuất thực phẩm, “nhóm sản phẩm chiếm ưu thế”, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm hữu cơ
+Thực phẩm chức năng 
+Đáp án: C
+Câu 25: Ngày nay, trong thực tế chế biến sản xuất thực phẩm, “nhóm sản phẩm được bán trong nhà thuốc”, là loại nào sau đây?
+Thực phẩm biến đổi gien 
+Thực phẩm chiếu xạ 
+Thực phẩm hữu cơ
+Thực phẩm chức năng 
+Đáp án: D
+	
+D. Nhóm câu hỏi rất khó: 10 câu (chiếm 10% trên tổng số câu). Thời gian trả lời: …… phút/câu
+Câu 1: Hình thức, dạng khởi nghiệp trong ngành thực phẩm là gì?
+Cá nhân sáng tạo ra 1 quy trình sản xuất mới.
+Cá nhân sáng tạo ra 1 cách thức điều hành mới.
+Cá nhân sáng tạo ra 1 sản phẩm mới.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 2: Phương pháp – cách thức khởi nghiệp trong ngành thực phẩm là gì ?
+Nghiên cứu và phát triển quy trình sản xuất mới.
+Nghiên cứu và phát triển cách thức điều hành mới.
+Nghiên cứu và phát triển sản phẩm mới.
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 3: Tại sảo phải Tái cấu trúc trong sản xuất và chế biến thực phẩm ?
+Thị trường kinh doanh thực phẩm rất khốc liệt
+Thị hiếu người tiêu dùng thay đổi liên tục
+Các tiêu chuẩn mới trong quản lý, điều hành và sản xuất
+Tổng hợp các câu trả lời đều đúng
+Đáp án: D
+Câu 4: Nghiên cứu và phát triển quy trình sản xuất mới trong chế biến thực phẩm là gì ?
+Thông số các quy trình, công đoạn trong quy trình, công nghệ các quy trình.
+Đặt hàng, thiết bị, vật tư, nhân sự,nhà cung cấp, nhà phân phối, bán hàng, marketing, áp dụng phiên bản nâng cấp của ISO, GMP.
+Nguyên liệu, thành phần, công thức, cảm quan, dinh dưỡng, vệ sinh an toàn thực phẩm
+Tổng hợp các câu trả lời đều đúng
+Đáp án: A
+Câu 5: Nghiên cứu và phát triển cách thức điều hành mới trong chế biến thực phẩm là gì ?
+Thông số các quy trình, công đoạn trong quy trình, công nghệ các quy trình.
+Mua hàng, nhân sự, quản lý sản suất, điều hành hoạt động nhà máy, bán hàng, marketing, quản lý chất lượng sản phẩm ISO, quản lý nhà máy GMP.
+Nguyên liệu, thành phần, công thức, cảm quan, dinh dưỡng, vệ sinh an toàn thực phẩm
+Tổng hợp các câu trả lời đều đúng
+Đáp án: B
+Câu 6: Nghiên cứu và phát triển sản phẩm mới trong chế biến thực phẩm là gì ?
+Thông số các quy trình, công đoạn trong quy trình, công nghệ các quy trình.
+Đặt hàng, thiết bị, vật tư, nhân sự,nhà cung cấp, nhà phân phối, bán hàng, marketing, áp dụng phiên bản nâng cấp của ISO, GMP.
+Nguyên liệu, thành phần, công thức, cảm quan, dinh dưỡng, vệ sinh an toàn thực phẩm
+Tổng hợp các câu trả lời đều đúng
+Đáp án: C
+Câu 7: Cách thức – phương pháp thực hiện quá trình “Tái cấu trúc” trong sản xuất và chế biến thực phẩm là gì ?
+Đột ngột
+Đột ngột và tiệm cận
+Đột ngột, tiệm cận và song song
+Đột ngột, tiệm cận, song song và chọn lọc
+Đáp án: D
+Câu 8: “Các công ty công nghiệp thực phẩm quy mô lớn, hệ thống phân phối rộng khắp” nên lựa chọn phương thức tái cấu trúc trong sản xuất và chế biến thực phẩm là gì ?
+Đột ngột
+Tiệm cận
+Song song
+Có chọn lọc
+Đáp án: C
+Câu 9: “Các công ty công nghiệp thực phẩm quy mô nhỏ, nhà hàng, bếp ăn công nghiệp và dịch vụ ẩm thực” nên lựa chọn phương thức tái cấu trúc trong sản xuất và chế biến thực phẩm là gì?
+Đột ngột và tiệm cận
+Tiệm cận và chọn lọc
+Song song và chọn lọc
+Có chọn lọc và đột ngột
+Đáp án: B
+Câu 10: “Các công ty công nghiệp thực phẩm mới khởi nghiệp, cơ sở sản xuất thực phẩm mới gia nhập ngành” nên lựa chọn phương thức tái cấu trúc trong sản xuất và chế biến thực phẩm là gì?
+Đột ngột
+Tiệm cận
+Song song
+Có chọn lọc
+Đáp án: A
+	
+               
+
+
+
+
+      
+   ThS. Lâm Đức Cường             TS. Trần Phước Nhật Uyên           TS. Đinh Thị Thủy       
