@@ -25,7 +25,8 @@ def parse_questions(file_content):
         four_answers = []
         for x in range(4):
             four_answers.append(answers.pop())
-            
+
+        four_answers.reverse()
         question_content = '\n'.join(answers)
 
         right_index = alphabet_answers.index(correct_answer)
