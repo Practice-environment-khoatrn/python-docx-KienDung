@@ -21,12 +21,16 @@ def parse_questions(file_content):
 
         # answers = [{"choice": ans[0], "content": ans[1].strip()} for ans in answer_matches]
         answers = question_content.split("\n")
-        question_content = answers[0]
-        answers.pop(0)
+
+        four_answers = []
+        for x in range(4):
+            four_answers.append(answers.pop())
+            
+        question_content = '\n'.join(answers)
 
         right_index = alphabet_answers.index(correct_answer)
-        correct_full_answer = answers[right_index]
-        answers.pop(right_index)
+        correct_full_answer = four_answers[right_index]
+        four_answers.remove(correct_full_answer)
 
         # Constructing the question dictionary
         question_dict = {
@@ -37,9 +41,9 @@ def parse_questions(file_content):
             "right_index": right_index,
             "H": "Câu " + question_number + ": " + question_content,
             "Đ": correct_full_answer,
-            "T1": answers[0],
-            "T2": answers[1],
-            "T3": answers[2],
+            "T1": four_answers[0],
+            "T2": four_answers[1],
+            "T3": four_answers[2],
         }
 
         questions.append(question_dict)
